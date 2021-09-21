@@ -3,8 +3,8 @@ metadata:
   short_name: BOH4M
   description: Notes du cours BOH4M de M. Antoine
   language: fr
-  url: 'https://m-rantoine.github.io/'
-  pathPrefix: "/boh4m/"
+  url: 'https://m-rantoine.github.io/boh4m/'
+  pathPrefix: '/boh4m'
   gaTrackingId: null
   favicon: /assets/favicon.png
   themeColor: '#0066cc'

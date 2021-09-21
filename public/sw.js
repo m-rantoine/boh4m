@@ -42,11 +42,11 @@ self.__precacheManifest = [
     "url": "29107295-08bcd18dd36daf13e49b.js"
   },
   {
-    "url": "app-485b35967da1ec75c071.js"
+    "url": "app-b72b4715566ae3814937.js"
   },
   {
     "url": "offline-plugin-app-shell-fallback/index.html",
-    "revision": "72b9ca794fdbe53a52eb9d28a972862b"
+    "revision": "d0ce1bda2d1f0339dd5d8f4eaf67c0d8"
   },
   {
     "url": "component---cache-caches-gatsby-plugin-offline-app-shell-js-c09128c136dc82a7928f.js"
@@ -57,11 +57,11 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/sq/d/12478684.json",
-    "revision": "21f504eb0264fc474f7a0d9858e961e3"
+    "revision": "4fb944dd02b0e89ea7c736d2874b2cf0"
   },
   {
     "url": "page-data/sq/d/2882937274.json",
-    "revision": "55550a28f4a46de723c9c1576c5e9851"
+    "revision": "4e7177488c9a96f579beb7481a2bc530"
   },
   {
     "url": "page-data/sq/d/353167761.json",
@@ -69,11 +69,11 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/sq/d/3812332637.json",
-    "revision": "95eb1f971171198415c1aa3d07afc745"
+    "revision": "279dbbc42fca1a3e22be7cef91c04def"
   },
   {
     "url": "page-data/app-data.json",
-    "revision": "adacb51b88519fac3ad2c955875b549b"
+    "revision": "e7008148ba265a80c1250d2caf526059"
   },
   {
     "url": "polyfill-1ed55f8bbc6911003305.js"
@@ -172,7 +172,7 @@ const navigationRoute = new NavigationRoute(async ({ event }) => {
   // Check for resources + the app bundle
   // The latter may not exist if the SW is updating to a new version
   const resources = await idbKeyval.get(`resources:${pathname}`)
-  if (!resources || !(await caches.match(`/boh4m/app-485b35967da1ec75c071.js`))) {
+  if (!resources || !(await caches.match(`/boh4m/app-b72b4715566ae3814937.js`))) {
     return await fetch(event.request)
   }
 
