@@ -1,0 +1,63 @@
+metadata:
+  name: BOH4M
+  short_name: BOH4M
+  description: Notes du cours BOH4M de M. Antoine
+  language: fr
+  url: 'https://lynxsjb.ca/boh4m/'
+  pathPrefix: "/"
+  gaTrackingId: null
+  favicon: /assets/favicon.png
+  themeColor: '#0066cc'
+header:
+  enabled: true
+  logo: /assets/logo.png
+  links: []
+sidebar:
+  ignoreIndex: false
+  forcedNavOrder: []
+  expanded: []
+  groups:
+    - order: 1
+      path: '/module-1'
+      title: 'Module 1'
+  links: []
+  poweredBy: {}
+  enabled: true
+pwa:
+  enabled: true
+  manifest:
+    icon: /assets/logo.png
+    display: minimal-ui
+    crossOrigin: anonymous
+features:
+  editOnRepo:
+    editable: false
+    location: 'https://github.com/m-rantoine/boh4m'
+    type: github
+  search:
+    enabled: true
+    engine: localsearch
+    startComponent: input
+    placeholder: Recherchez...
+    pagination:
+      enabled: true
+  rss:
+    enabled: false
+    showIcon: true
+    copyright: ''
+    categories: []
+    matchRegex: ^/
+    outputPath: /rss.xml
+  darkMode:
+    enabled: true
+    default: false
+  toc:
+    show: true
+    depth: 3
+search:
+  enabled: true
+  engine: localsearch
+  startComponent: input
+  placeholder: Recherchez...
+  pagination:
+    enabled: true
