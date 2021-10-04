@@ -2,7 +2,9 @@
 title: "2.2 Le processus de planification et ses avantages"
 order: 2
 ---
-# La planification est le processus par lequel on décide comment atteindre un objectif particulier. Un plan représente les étapes à suivre pour l’atteindre.
+<Info>La planification est le processus par lequel on décide comment atteindre un objectif particulier. Un plan représente les étapes à suivre pour l’atteindre.</Info>
+
+# Les cinq étapes du process de planification
 
 Les cinq étapes du process de planification sont les suivantes :
 
@@ -26,7 +28,7 @@ Pour qu’une planification soit efficace, les entreprises doivent établir les 
 
 Ex : Développer et mettre en marché des croustilles de maïs qui *accroitront les ventes* **(S)** *de cinq pour cent* **(M)** *dans les 12 mois* **(T)** suivant leur lancement sur le marché.
 
-# Étape 2 : Détermine ce dont tu disposes déjà et ce dont tu as besoin
+## Étape 2 : Détermine ce dont tu disposes déjà et ce dont tu as besoin
 
 Une entreprise doit déterminer ce qu’il a déjà et doit acquérir pour atteindre ses objectifs, et parfois même, déterminer si ceci impose des contraintes ou des impossibilités à atteindre l’objectif. Parfois, en regardant à la situation de plus prêt, on remarque que notre objectif n’est pas atteignable ou réaliste.
 
@@ -91,3 +93,12 @@ Avec un bon plan, il est clair ce qui est essentiel et ce qui ne contribue pas �
 
 En ayant un but spécifique et en étant mesurable, ça permet d’évaluer le plan pour assurer son fonctionnement (*le contrôle*).
 
+# :briefcase: Travail
+
+Choisissez l’un des scénarios suivants et établi un objectif SMART celui-ci. Préciser comment ton objectif répond à chacun des critères SMART.
+
+**Scénario 1** : Toi et tes amis veulent faire un "weekend getaway".
+
+**Scénario 2** : Tu veux mettre de l’argent de côté pour pouvoir acheter un item dispendieux.
+
+**Scénario 3** : Tu possèdes une entreprise de cinéma et veut augmenter tes profits.
