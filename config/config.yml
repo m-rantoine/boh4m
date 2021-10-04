@@ -20,6 +20,9 @@ sidebar:
     - order: 1
       path: '/module-1'
       title: 'Module 1'
+    - order: 2
+      path: '/module-2'
+      title: 'Module 2'
   links: []
   poweredBy: {}
   enabled: true
