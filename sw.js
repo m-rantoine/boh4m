@@ -27,13 +27,13 @@ workbox.core.clientsClaim();
  */
 self.__precacheManifest = [
   {
-    "url": "webpack-runtime-7fafecf9335779006d95.js"
+    "url": "webpack-runtime-c98f1d97ad1d8401a36c.js"
   },
   {
     "url": "framework-38197798e3e3e3374a2c.js"
   },
   {
-    "url": "styles.d8db686556f580eb528a.css"
+    "url": "styles.7d4409da75d5d0078ee8.css"
   },
   {
     "url": "styles-d77d47be424fbcd60de6.js"
@@ -42,11 +42,11 @@ self.__precacheManifest = [
     "url": "29107295-08bcd18dd36daf13e49b.js"
   },
   {
-    "url": "app-b72b4715566ae3814937.js"
+    "url": "app-72be68dcf5250940f555.js"
   },
   {
     "url": "offline-plugin-app-shell-fallback/index.html",
-    "revision": "d0ce1bda2d1f0339dd5d8f4eaf67c0d8"
+    "revision": "f29e495565c26204b395aea18bd9118b"
   },
   {
     "url": "component---cache-caches-gatsby-plugin-offline-app-shell-js-c09128c136dc82a7928f.js"
@@ -57,11 +57,11 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/sq/d/12478684.json",
-    "revision": "9f7f4684f5d8fcf044d3c801f2b797a7"
+    "revision": "6e1fb4c25cc0fdccc5688c7e63ff5edf"
   },
   {
     "url": "page-data/sq/d/2882937274.json",
-    "revision": "a3538af5645b66d8400cd4761baff724"
+    "revision": "6e03304a971e2832aee38f90443abc27"
   },
   {
     "url": "page-data/sq/d/353167761.json",
@@ -69,7 +69,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/app-data.json",
-    "revision": "e7008148ba265a80c1250d2caf526059"
+    "revision": "a09df68ea56e08e67526d0c3cc7b3285"
   },
   {
     "url": "polyfill-1ed55f8bbc6911003305.js"
@@ -168,7 +168,7 @@ const navigationRoute = new NavigationRoute(async ({ event }) => {
   // Check for resources + the app bundle
   // The latter may not exist if the SW is updating to a new version
   const resources = await idbKeyval.get(`resources:${pathname}`)
-  if (!resources || !(await caches.match(`/boh4m/app-b72b4715566ae3814937.js`))) {
+  if (!resources || !(await caches.match(`/boh4m/app-72be68dcf5250940f555.js`))) {
     return await fetch(event.request)
   }
 
