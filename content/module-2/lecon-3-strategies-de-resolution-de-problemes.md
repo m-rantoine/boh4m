@@ -34,7 +34,7 @@ Les gestionnaires évaluent chaque solution en comparant ce qu’elle va coûter
 
 ## Étape 4 : Mettre en oeuvre la solution
 
-À fin de mettre en oeuvre une solution, la gestionnaire se servira du processus de planification (voir [2.2 Le processus de planification et ses avantages](https://www.craft.do/s/6CRLfIVqNHigVD)).
+À fin de mettre en oeuvre une solution, la gestionnaire se servira du processus de planification (voir [2.2 Le processus de planification et ses avantages](https://m-rantoine.github.io/boh4m/module-2/lecon-2-processus-de-planification)).
 
 ## Étape 5 : Évaluer les résultats
 
