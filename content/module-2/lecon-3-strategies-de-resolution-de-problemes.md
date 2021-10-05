@@ -1,6 +1,6 @@
 ---
 title: "2.3. Stratégies de résolution de problème"
-order: 1
+order: 3
 ---
 Le processus de résolution de problème ressemble beaucoup au processus de planification. Dans une analyse systématique, une entreprise applique les techniques de planification pour prendre une décision sur la matière de résoudre un problème particulier.
 
