@@ -1,5 +1,5 @@
 ---
-title: "Stratégies de résolution de problème"
+title: "2.3. Stratégies de résolution de problème"
 order: 1
 ---
 Le processus de résolution de problème ressemble beaucoup au processus de planification. Dans une analyse systématique, une entreprise applique les techniques de planification pour prendre une décision sur la matière de résoudre un problème particulier.
@@ -14,7 +14,7 @@ L’analyse systématique se fait en cinq étapes :
 
 ## Étape 1 : Définir le problème
 
-Pour résoudre un problème, on doit premièrement mettre le doit sur le problème. Et parfois, des problèmes comme “les ventes sont baissées” sont seulement le symptôme d’un autre problème tel que la compétition, la baisse de motivation des vendeurs, etc.
+Pour résoudre un problème, on doit premièrement mettre le doigt sur le problème. Et parfois, des problèmes comme “les ventes ont baissées” sont seulement le symptôme d’un autre problème tel que la compétition, la baisse de motivation des vendeurs, etc.
 
 ## Étape 2 : Concevoir des solutions
 
@@ -22,11 +22,11 @@ En général, plus d’une solution sera proposée. Pour concevoir des solutions
 
 ### Remue-méninges (brain storming)
 
-      Encourage à proposer toutes sortes d’idées qui seront, par la suite, évaluée. De cette façon, même les “idées folles” peuvent être proposées, qui peuvent mener à d’autres idées. Le remue-méninges est particulièrement utile orsqu tu dois réfléchir latéralement ou hors des sentiers battus (out of the box). Pour qu’un remue-méninges soient efficace: on ne critique pas les idées des autres, il n’y a pas d’idée stupide, on travaille à partir des idées des autres, on maintient l’accent sur le problème, on prendre de bonnes notes.
+Encourage à proposer toutes sortes d’idées qui seront, par la suite, évaluée. De cette façon, même les “idées folles” peuvent être proposées, qui peuvent mener à d’autres idées. Le remue-méninges est particulièrement utile lorsque tu dois réfléchir latéralement ou hors des sentiers battus (out of the box). Pour qu’un remue-méninges soient efficace: on ne critique pas les idées des autres, il n’y a pas d’idée stupide, on travaille à partir des idées des autres, on maintient l’accent sur le problème, on prendre de bonnes notes.
 
 ### La schématisation conceptuelle
 
-      Représente les idées de façon visuelle telle qu’une toile d’araignée où un mot entraîne une autre pensée ou, peut-être, une autre direction. Ça permet d’établir des liens que tu ne verrais pas autrement.
+Représente les idées de façon visuelle telle qu’une toile d’araignée où un mot entraîne une autre pensée ou, peut-être, une autre direction. Ça permet d’établir des liens que tu ne verrais pas autrement.
 
 ## Étape 3 : Choisir une solution
 
