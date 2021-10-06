@@ -2,6 +2,8 @@
 title: "2.3. Stratégies de résolution de problème"
 order: 3
 ---
+import Smiles from '../../components/smiles'
+
 Le processus de résolution de problème ressemble beaucoup au processus de planification. Dans une analyse systématique, une entreprise applique les techniques de planification pour prendre une décision sur la matière de résoudre un problème particulier.
 
 L’analyse systématique se fait en cinq étapes :
@@ -140,4 +142,3 @@ Explique brièvement comment tu mettras ce plan en action.
 ### Étape 5 : Évaluer les résultats
 
 Explique brièvement comment tu vas pouvoir savoir que ton problème a été résolu.
-
