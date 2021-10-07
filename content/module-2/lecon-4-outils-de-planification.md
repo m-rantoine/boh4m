@@ -17,11 +17,23 @@ La **planification de scénarios** anticipe tous les événements qui peuvent su
 
 Les **scénarios** tiennent compte de toutes les possibilités de réussite et d’échec, y inclus les réactions des personnes en cause, la disponibilité des ressources, les conflits de politique et les conditions du marché.
 
-Dans les scénarios à planifier, il doit y avoir un **scénario de la pire éventualité**. Celui-ci permet de te détendre un peu : il est préférable de planifier pour le pire et de ne pas avoir besoin du plan que de vivre le pire et de pas avoir un plan.
 
-Les organisations créent également les **scénarios de réussite**, qui prévoient pour la meilleure des scénarios. Par exemple, une compagnie de crème glacée vendent beaucoup plus de cornets que prévus. Ils doivent avoir un plan pour s’approprier d’autres produits, avoir plus de personnel de vente, etc. La compagnie risque manquer l’occasion de faire un profit accru si elle n’est pas bien préparée.
+### Scénario de réussite
 
-Exemple : Le cas Frito-Lay
+Un *scénario de réussite* prévoient pour la **meilleure des scénarios**. Ici, on ne parle pas d’un scénario ou on atteint nos objectifs, mais plutôt où ça va **trop bien** et on **dépasse nos objectifs** et aura à développer un plan en conséquence. 
+
+Par exemple, une compagnie de crème glacée vendent beaucoup plus de cornets que prévus. Ils doivent avoir un plan pour s’approprier d’autres produits, avoir plus de personnel de vente, etc. La compagnie risque manquer l’occasion de faire un profit accru si elle n’est pas bien préparée.
+
+### Scénario de pire éventualité
+
+Un *scénario de pire éventualité* (en anglais, "worst case scenario") c’est où on n'atteint pas nos objectifs, par une grande marge, ou encore, si quelque chose hors de la norme se produise.
+
+> Si on planifie pour l’imprévu, ça ne sera plus un imprévu.
+
+Par exemple, une compagnie qui vend des beignes prévoie vendre 100 beignes lors d’un carnaval. Que faire s’il pleut et aucun beigne est vendu par 12 h 00 ?
+
+
+### Exemple : Le cas Frito-Lay
 
 Au printemps 1998, Frito-Lay et Proctor & Gamble ont commencé la mise en marché d’une croustille de pommes de terre qui contenait un substitut de lipides sans matières grasses. Le produit, Olestra, est une substance synthétique qui a le même effet en bouche que le gras. Cependant, les molécules sont si grosses que le corps humain est incapable de les digérer ni de les absorber. Frito-Lay et Proctor & Gamble espéraient que leur marque de croustilles WOW allait attirer les consommateurs et consommatrices soucieuses de leur santé qui évitent normalement les croustilles en raison de leurs propriétés engraissantes.
 
@@ -52,18 +64,6 @@ Remarque les caractéristiques du plan de contingence :
 1. en premier lieu, il a été créé à l’avance, pour que le restaurant ait le temps d’acheter de plus petits sacs de crevettes et de créer un article de menu pour le jour suivant en utilisant les restes ;
 2. en deuxiéme lieu, le plan établit des points de contrôle qui indiquent si tout va bien et laisse assez de temps pour faire des changements, au besoin ;
 3. enfin, le plan prévoyait une solution de rechange en cas d’échec, à savoir cesser de décongeler les crevettes si les ventes sont faibles.
-
-### Plan de réussite
-
-Un *plan de réussite* est un plan de contingence pour les situations où ça va **trop bien**.
-
-Par exemple, une compagnie qui vend des beignes prévoie vendre 100 beignes à chaque jour lors d’un carnaval et donc cuit 120 beignes par jour (de 8 h 00 à 16 h 00). Que faire si tout ces 120 beinges sont vendus par 12 h 00 ?
-
-### Plan de pire éventualité
-
-Un *plan de pire éventualité* (en anglais, "worst case scenario") est un plan de contingence pour les situations où ça va **très mal**, sans toujours aller à un extrème apocalyptique.
-
-Par exemple, une compagnie qui vend des beignes prévoie vendre 100 beignes lors d’un carnaval. Que faire s’il pleut et aucun beigne est vendu par 12 h 00 ?
 
 ## La planification participative
 
@@ -101,21 +101,21 @@ Tous les plans sont des prévisions. Par exemple, on utilise les **prévisions**
 
 Tu achètes une maison dans la région du Niagara en 2021 avec le plan de vendre la maison en 5 ans, afin d’en acheter une petite.
 
-### Planifications de scénarios
+## Planifications de scénarios
 
-#### Plan de réussite
+### Scénario de réussite
 
-  Si on suit les mêmes augmentations que les derniers 5 ans, les maisons ont augmentées en valeur de 385 000$ à 570 000$, soit une augmentation de 50 %. On fera donc un profit de 247 500$. On pourra acheter une plus petite maison, moins cher pour environ 400 000$ et avoir plus de la moitié déjà paillé.
+Si on suit les mêmes augmentations que les derniers 5 ans, les maisons ont augmentées en valeur de 385 000$ à 570 000$, soit une augmentation de 50 %. On fera donc un profit de 247 500$.
 
-#### Plan de pire éventualité
+### Scénario de pire éventualité
 
-  Si, au pire, la maison perd 5 % de sa valeur et vaux donc 365 750$. Après 5 ans, tu dois encore 322 516$, un profit de 63 000$ Tu as donc encore fait un peu d’argent, peut acheter une maison pour environ $256 000. Tu auras environ un quart de déjà paillé.
+Si, au pire, la maison perd 5 % de sa valeur et vaux donc 365 750$.
+  
+## Plans de contingence
 
-## Plan de contingence
-
-1. Dans 5 ans, dans la pire éventualité, on peut rester la maison dans laquelle nous sommes.
+1. Si notre maison se vend pour encore plus que 570 000$, on pourrait mettre l’argent de côté pour prendre une retrette plus tôt, ou payer les voitures, etc. 
 2. Vendre la maison quand même en faisant seulement 63 000$, investir cet argent et utilise l’intérêt pour aider à louer un appartement.
-3. Si notre maison se vend pour encore plus que 570 000$, on pourrait mettre l’argent de côté pour prendre une retrette plus tôt, ou payer les voitures, etc.
+3. Dans 5 ans, dans la pire éventualité, on peut rester la maison dans laquelle nous sommes.
 
 ## Plan participatif
 
@@ -138,8 +138,8 @@ Préparent une planification en utilisant les 5 outils étudiés, tel que dans l
 
 Vous devez :
 
-- Rédiger, dans quelques phrases, un plan de réussite.
-- Rédiger, dans quelques phrases, un plan de pire éventualité.
+- Rédiger, dans une ou deux phrases, un scénario de réussite.
+- Rédiger, dans une ou deux phrases, un scénario de pire éventualité.
 - Rédiger un plan de contingence pour chacune des scénarios. (Que vas-tu faire si tout va mieux que tu as prévu ? Que vas-tu faire si tout va le pire prévu ?)
 - Pour le plan participatif, explique qui à part toi-même tu peux inclure dans la planification, qui sont des parties prises.
 - Pour l’évaluation comparative, identifie deux ou trois comparaisons tu peux faire pour t’aider à faire des prévisions.
