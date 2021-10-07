@@ -20,7 +20,7 @@ Les **scénarios** tiennent compte de toutes les possibilités de réussite et d
 
 ### Scénario de réussite
 
-Un *scénario de réussite* prévoient pour la **meilleure des scénarios**. Ici, on ne parle pas d’un scénario ou on atteint nos objectifs, mais plutôt où ça va **trop bien** et on **dépasse nos objectifs** et aura à développer un plan en conséquence. 
+Un *scénario de réussite* prévoient pour la **meilleure des scénarios**. Ici, on ne parle pas d’un scénario où on atteint nos objectifs, mais plutôt où ça va **trop bien** et on **dépasse nos objectifs** et aura à développer un plan en conséquence. 
 
 Par exemple, une compagnie de crème glacée vendent beaucoup plus de cornets que prévus. Ils doivent avoir un plan pour s’approprier d’autres produits, avoir plus de personnel de vente, etc. La compagnie risque manquer l’occasion de faire un profit accru si elle n’est pas bien préparée.
 
@@ -28,9 +28,9 @@ Par exemple, une compagnie de crème glacée vendent beaucoup plus de cornets qu
 
 Un *scénario de pire éventualité* (en anglais, "worst case scenario") c’est où on n'atteint pas nos objectifs, par une grande marge, ou encore, si quelque chose hors de la norme se produise.
 
-> Si on planifie pour l’imprévu, ça ne sera plus un imprévu.
-
 Par exemple, une compagnie qui vend des beignes prévoie vendre 100 beignes lors d’un carnaval. Que faire s’il pleut et aucun beigne est vendu par 12 h 00 ?
+
+> Si on planifie pour l’imprévu, ça ne sera plus un imprévu.
 
 
 ### Exemple : Le cas Frito-Lay
