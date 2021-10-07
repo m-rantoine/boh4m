@@ -134,7 +134,7 @@ Si, au pire, la maison perd 5 % de sa valeur et vaux donc 365 750$.
 
 # Travail
 
-Préparent une planification en utilisant les 5 outils étudiés, tel que dans l’exemple ci-haut. Ton plan peut-être par rapport à n’importe quoi. Tu peux certainement reprendre le sujet de ton dernier travail où tu as élaboré ta vision pour le futur.
+Prépare une planification en utilisant les 5 outils étudiés, tel que dans l’exemple ci-haut. Ton plan peut-être par rapport à n’importe quoi. Tu peux certainement reprendre le sujet de ton dernier travail où tu as élaboré ta vision pour le futur.
 
 Vous devez :
 
