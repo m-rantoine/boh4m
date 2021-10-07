@@ -53,7 +53,7 @@ Exemple : Ton client te demande de peinturer toutes les chambres à coucher dan
 
 ## La planification de contingence
 
-> La planification de contingence offre un plan d’action différent en cas d’échec du plan initial, à quelque étape que ce soit, en raison d’un changement de circonstances.
+La planification de contingence offre un plan d’action différent en cas d’échec du plan initial, à quelque étape que ce soit, en raison d’un changement de circonstances.
 
 La planification de contingence met l’accent sur la possibilité d’échec d’un plan existant et crée un autre plan, au cas où.
 
@@ -67,7 +67,7 @@ Remarque les caractéristiques du plan de contingence :
 
 ## La planification participative
 
-La planification participative est une planification faite par les personnes uqi seront touchées par le plan : les parties prenantes (stakeholders, tel que les employés, les clients, les fournisseurs, les actionnaires, les unions, les agences régulatoires).
+La planification participative est une planification faite par les personnes qui seront touchées par le plan , c’est-à-dire les parties prenantes (stakeholders), tel que: les employés, les clients, les fournisseurs, les actionnaires, les unions, les agences régulatoires.
 
 Les deux raisons principales pour impliquer les *membres ordinaires* dans la planification c’est pour *leur expérience et soutien*.
 
@@ -77,7 +77,7 @@ Le personnel de la première ligne (qui interagissent avec la clientèle) sont l
 
 ### Le soutien
 
-Si les parties prises sont impliquées dans les décisions, non seulement est-ce qu’ils peuvent faire des suggestions grâce à leur expérience. En se sentant impliqués, et puisque c’est, en partie, leur plan, ils seront plus impliqués dans sa mise-en-oeuvre.
+Si les parties prises sont impliquées dans les décisions, non seulement est-ce qu’ils peuvent faire des suggestions grâce à leur expérience. En se sentant impliqués, et puisque c’est, en partie, leur plan, ils seront plus engagés dans sa mise-en-oeuvre.
 
 Cependant, certains gestionnaires n’accorde pas de valeur à l’opinion et la contribution des travailleurs de première ligne ou, encore, trouve que la planification participative est trop lente.
 
