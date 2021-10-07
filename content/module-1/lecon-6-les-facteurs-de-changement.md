@@ -68,7 +68,7 @@ On informe le personnel d’un changement et s’attend tout simplement qu’ils
 
 **Inconvénients**: le personnel forcé peuvent ressentir l'insatisfaction et la colère qui ne s'y conforment que sous une supervision directe, jusqu'à ce qu'ils s'y adaptent avec le temps.
 
-## La négociation (persuasive)
+### La négociation (persuasive)
 
 Les gestionnaires négocient avec le personnel pour savoir quoi donner en échange de la conformité au changement. La négociation peut souvent se faire de façon individuel. Le gestionnaire offre des récompenses adaptées aux besoins de l’employé: une légère augmentation de salaire, un espace de travail redessiné, plus de congés ou un nouveau titre, etc.
 
