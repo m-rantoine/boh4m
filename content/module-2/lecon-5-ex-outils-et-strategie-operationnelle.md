@@ -14,7 +14,7 @@ Très souvent, ils sont conçus et mises-en-place par les gestionnaires intermé
 
 ## Les plans opérationnels
 
-<Info>Les *plans opérationnels* présentent les objectifs de divers services au sein de l’organisation.</Info>
+Les *plans opérationnels* présentent les objectifs de divers services au sein de l’organisation.
 
 Ex : les plans de marketing, de production, de ressources humaines, financiers.
 
@@ -32,9 +32,9 @@ Les divers secteurs vont présenter leurs demandes budgétaires, tout en justifi
 
 # Les plans à long terme
 
-<Info>Un *plan à long terme* est un plan qui sera réalisé sur plus d’un an</Info>
+Un *plan à long terme* est un plan qui sera réalisé sur plus d’un an.
 
-Ex : les plans stratégiques, les plans permanents (tel queles politiques et les procédures)
+Ex : les plans stratégiques, les plans permanents (tel que les politiques et les procédures)
 
 ## Les plans stratégiques
 
@@ -42,7 +42,7 @@ Un *plan stratégique* envisage ce à quoi ressemblera l’entreprise plus tard 
 
 ## Les plans permanents
 
-Un *plan permanent* est le contrain d’un plan à usage unique. Ils seront utilisés maintes et maintes fois et deviennent des politiques et des procédures d’entreprise et font souvent partie du manuel du personnel.
+Un *plan permanent* est le contraire d’un plan à usage unique. Ils seront utilisés maintes et maintes fois et deviennent des politiques et des procédures d’entreprise et font souvent partie du manuel du personnel.
 
 # La stratégie opérationnelle
 
@@ -82,17 +82,17 @@ Une série de plans intégrés qui comprend toutes les ressources et les tâches
 
 ## L'analyse FFPM
 
-Une analyse *FFPM* évalue les **f**orces et les **f**aiblesses des activités internes de l’organisation, ainsique les **p**ossibilités et les **m**enaces provenant de l’environnement externe de l’organisation.
+Une analyse *FFPM* évalue les **f**orces et les **f**aiblesses des activités internes de l’organisation, ainsi que les **p**ossibilités et les **m**enaces provenant de l’environnement externe de l’organisation.
 
 ![Image.png](https://res.craft.do/user/full/4e157486-9317-9231-a598-a47bdbaccfca/doc/5988543E-B421-45BB-AD0B-FD00D9185B5D/4EC7FEAA-CE6D-41D0-B9B8-23435B8CD9DD_2/Image.png)
 
 Le principal objectif de l’analyse FFPM est de prendre avantages de ces forces et les possibilités disponibles, tout en réalisant ses faiblesses et étant au courrant des menaces existantes afin de prendre des étapes pour s’y protéger.
 
-Ex : “Utiliser notre avantage sur les prix pour augmenter les ventes nationales, développer des poitns de distribution nationnaux et internationaux et faire une mise en marché plus dynamique de nos marques plus saines.”
+Ex : “Utiliser notre avantage sur les prix pour augmenter les ventes nationales, développer des points de distribution nationnaux et internationaux et faire une mise en marché plus dynamique de nos marques plus saines.”
 
 Voici un article qui résume bien le FFPM
 
-<LinkCard title="Analyse FFPM (force, faiblesses, possibilités et menaces) | Gestion Orientée vers l'Impact" url="http://www.gestionorienteeverslimpact.org/tool/analyse-ffpm-force-faiblesses-possibilit%25C3%25A9s-et-menaces" />
+[Analyse FFPM (force, faiblesses, possibilités et menaces) | Gestion Orientée vers l'Impact](http://www.gestionorienteeverslimpact.org/tool/analyse-ffpm-force-faiblesses-possibilit%25C3%25A9s-et-menaces)
 
 Voici un exemple de l’analyse FFPM de l’entreprise Canadian Tire.
 
@@ -112,79 +112,27 @@ Canadian Tire pourrait croître dans le marché de la rénovation domiciliaire.
 
 Les principaux concurrents du marché de la rénovation domiciliaire sont Lowe’s, Rona et Home Depot.
 
-## La culture organisationnelle
+---
 
-La culture organisationnelle d’une organisation, ce sont les croyances communes à propos de l’organisation, partagées entre tous les membres du personnel, et les valeurs communes que les personnes partagent à l’intérieur de l’entreprise. Ces croyances et ces valeurs jouent un rôle dans la planification stratégique, en ce sens qu’elles régissent la nature et le mode opérationnel de I’entreprise.
-
-La vision et l’énoncé de mission inspire la culture organisationnelle d’une organisation.
-
-Par exemples, certaines organisations inclus dans leur vision et leur énoncé de mission l’importance de protéger l’environnement. D’autres inclus leur vision d’expansion rapide de l’entreprise à tout prix.
-
-La **culture fondamentale** d’une organisation est *ce qu’elle est*. Elle réponde à la question : "Que faisons-nous avec cette entreprise ?”
-
-Ex : Disney souhaite faire vivre à ses invitées une expérience de divertissement mémorable. Coc-Cola souhaite que ses produits soient offerts partout et à tout moment, chaque fois que les gens en veulent.
-
-La **culture observable** est la matière dont la culture se traduit dans l’entreprise, de sorte que les autres peuvent la voir en action.
-
-Ex : Le siège social de Disney met en évidence des photos de Walt Disney et de ses personnages de dessins animés. Disney appelle ses clientes et ses cleints des “invités”, et les personnes qui travaille à Disney World, “la distribution” (cast members).
-
-## La culture organisationnelle et la planification stratégique de Telus
-
-## Stratégie globale
-
-« Notre intention stratégique est de donner libre cours à la puissance d’Internet pour offrir les meilleures solutions aux Canadiennes et aux Canadiens, à la maison, au travail et en déplacement. »
-
-## Les quatres valeurs fondamentales
-
-1. Nous accueillons le changement et nous créons les occasions.
-2. Nous sommes passionnés de croissance.
-3. Nous croyons à l’esprit d’équipe.
-4. Nous avons le courage d’innover.
-
-## Le lien entre les valeurs fondamentales et sa culture observable
-
-Les boutiques sont invitantes. Elle met tout en oeuvre pour offrir la meilleure technologie. Elle a foi en son personnel et le travail d’équipe.
-
-## Les influences des valeurs fondamentales sur sa planification stratégique
-
-La planification stratégique de l’entreprise sera probablement une stratégie de croissance et l’innovation. L’entreprise investira dans son personnel pour réaliser sa croissance.
+À partir de cette analyse FFPM, nous pouvons faire une planification stratégique qui prends contre des forces et des faiblesses d’une compagnie pour la permettre de 1) s’améliorer selon les possibilités révélées et 2) se protéger des menaces possibles.  
 
 # Travail
 
-Vous aurez à concevoir une entreprise. Tu peux produire, vendre, ou servir tout ce que tu veux.
+## Étape 1 : Analyse FFPM
 
-## Étape 1 : Description de l’entreprise
-
-Rédige un résumé d’affaires qui décrit ton entreprise (invente n’importe quel entreprise que tu veux, soyez créatifs et créatives). Précise le type d’activités que tu exerces, ce qu’offres au public, la grandeur de la compagnie, où est son siège social, etc.
-
-  - [ ] Je trouve une idée pour une entreprise et a décrit son produit ou service.
-  - [ ] Je fais une description qui inclus le type d’entreprise, sa taille, le lieu de son siège social, etc.
-
-## Étape 2 : Analyse FFPM
-
-Fais une analyse FFPM complète de ton entreprise. Tiens compte des forces et des faiblesses internes et des possibilités et des menaces externes.
+Fais une analyse FFPM complète d’une entreprise. Tiens compte des forces et des faiblesses internes et des possibilités et des menaces externes.
 
   - [ ] Je dresse la liste des forces et des faiblesses de mon entreprise (un minimum de quatre pour chacune)
   - [ ] Je dresse la liste des possibilités et des menaces pour mon entreprise (un minimum de quatre pour chacune)
 
-## Étape 3 : Stratégie
+## Étape 2 : Plan stratégique
 
-Décris une stratégie qui sera poursuivie par ton entreprise et comment tu la poursuivras. Sois précis au niveau de ce que tu feras.
+Décris une stratégie qui sera poursuivie par l’entreprise (basée sois sur une possibilitée ou une menace) et comment tu la poursuivras. Sois précis au niveau de ce que tu feras.
 
 **Remarque :** Assure-toi que ta stratégie ait un certain lien avec un élément de ton analyse FFPM.
 
   - [ ] Je présente la stratégie avec un bon montant de détails.
-  - [ ] Je fais preuve de créativité et d’habiletés en résolution de problèmes dans la description de la stratégie.
-
-## Étape 4: Culture fondamentale
-
-En une phrase, décris la culture fondamentale de ton entreprise. Ensuite, décris trois éléments culturels observables de ton milieu de travail et explique ce qu’ils disent de ta culture.
-
-  - [ ] Je décris la culture fondamentale de mon entreprise en une phrase.
-  - [ ] La phrase explique sur quoi se concentrera l’entreprise.
-  - [ ] Je décris un minimum de trois éléments observables en milieu de travail qui démontrent ce que c’est que de travailler à cet endroit.
-  - [ ] J’explique ce que ces trois éléments signifient pour la culture au travail.
-    
+  - [ ] Je fais preuve de créativité et d’habiletés en résolution de problèmes dans la description de la stratégie. 
 
 - [ ] Je communique clairement, sans fautes d’orthographe ou de grammaire.
 - [ ] Le rapport est présenté dans un format professionnel. (Peut être Google Docs, Google Slides mais doit être bien organisé avec des idées complètes)
