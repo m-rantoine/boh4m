@@ -23,6 +23,9 @@ sidebar:
     - order: 2
       path: '/module-2'
       title: 'Module 2'
+    - order: 3
+      path: '/module-3'
+      title: 'Module 3'
   links: []
   poweredBy: {}
   enabled: true
