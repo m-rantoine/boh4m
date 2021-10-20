@@ -111,20 +111,23 @@ Avec l’exemple du prélèvement de 500 000$ en 12 mois pour l’achat d’une 
   **Objectif**: Compléter la course en 18:00.
 
   **Points de contrôles**:
-    - Pendant la course (mesurer son temps à chaque 500m)
-    - Après la course (voir si on a amélioré notre temps)
+- Pendant la course (mesurer son temps à chaque 500m)
+- Après la course (voir si on a amélioré notre temps)
+
 
   **Observation prise:**
-    - Temps pour courrir chaque 500m
-    - Temps pour compléter la course
+- Temps pour courrir chaque 500m
+- Temps pour compléter la course
+
 
   **Contrôle interne**:
-    - Se pousser pour atteindre le temps voulu pour cette section de 500m. (Autodiscipline)
-    - Vérifier le temps nécessaire pour courrir chaque 500m. (Autoévaluation)
+- Se pousser pour atteindre le temps voulu pour cette section de 500m. (Autodiscipline)
+- Vérifier le temps nécessaire pour courrir chaque 500m. (Autoévaluation)
+
 
   **Contrôle externe**:
-    - L’entraîneur évalue notre niveau de fatigue et nous suggère de pousser plus ou moins fort.
-    - L’entraîneur mesure notre pace et nous dit si on est en ligne pour atteindre notre objectif.
+- L’entraîneur évalue notre niveau de fatigue et nous suggère de pousser plus ou moins fort.
+- L’entraîneur mesure notre pace et nous dit si on est en ligne pour atteindre notre objectif.
 
 ---
 
