@@ -1,5 +1,5 @@
 ---
-title: "3.2. Les structures organisationnelles - La structure formelle"
+title: "3.2. Les structures organisationnelles"
 order: 2
 ---
 ![Un exemple d'une structure formelle](formelle.png)
@@ -32,7 +32,7 @@ Ex : Département de sciences, secrétaria, consiergerie
 
 # La structure divisionnaire
 
-Celle-ci organique le personnel en groupes de travail en onction de raisons autres que les fonctions courante
+Celle-ci organique le personnel en groupes de travail en fonction de raisons autres que les fonctions courante
 
 Il y a cinq catégories divisionnaires typiques :
 
@@ -42,13 +42,9 @@ b. géographique
 
 c. par clientèle
 
-d. hybride
-
-e. matricielle
-
 ## Les structures par produit
 
-Forment des groupes distinctes pourtout le personnel qui traaille sur un même produit. Chaque division est supervisée par un **gestionnaire de marque**. Celui-ci est responsable de toutes les activités de marketing de soutien à une marque en particuler : la publicité, la distribution, l’emballage, les ventes, la recherche, l’expédition et le développement des produits.
+Forment des groupes distinctes pour tout le personnel qui travaille sur un même produit. Chaque division est supervisée par un **gestionnaire de marque**. Celui-ci est responsable de toutes les activités de marketing de soutien à une marque en particuler : la publicité, la distribution, l’emballage, les ventes, la recherche, l’expédition et le développement des produits.
 
 Ex : Rogers Communications est structurée en quatre grands secteurs d’activités : la radiodiffision, la publication, les télécommunications et la distribution.
 
@@ -74,7 +70,13 @@ Une structure hybride combine soit une structure fonctionnelle et une structure 
 
 # Les structures matricielles
 
-![Exemple de structure matricielle](matricielle.png)
+|                    | Chef de projet A       | Chef de projet B       | Chef de projet C       |
+| ------------------ | ---------------------- | ---------------------- | ---------------------- |
+| Chef de marketing  | Personne de marketing  | Personne de marketing  | Personne de marketing  |
+| Chef de finances   | Personne de finances   | Personne de finances   | Personne de finances   |
+| Chef de production | Personne de production | Personne de production | Personne de production |
+
+
 
 La structure matricielle est une approche très intéressante qui combine les structures fonctionnelles et divisionnaires. Ici, il y a différents projets ou tâches qui a un ou une gestionnaire de tâche qui crée une équipe fonctionnelle. C’est-à-dire, le gestionnaire va aller recruter des membres du corps personnel de l’entreprise et les assigner une tâche donnée. Une fois la tâche complétée, la personne pourrai se faire assigner des tâches d’une différente division de l’entreprise.
 
@@ -94,6 +96,13 @@ Les entreprises décentralisées sont plus prés de leur clientéle. Un fabrican
 
 La décentralisation est essentielle dans une économie mondiale. Elle offre la fluidité culturelle dont les entreprises ont besoin pour réussir sur les marchés étrangers. L’évolution de la technologie informatique permet à l’entreprise centrale de rester en contact permanent avec les sous-unités, de sorte que les chiffres des stocks, les rapports sur les styles, les données du marché et les renseignements d’expédition sont accessibles au besoin.
 
+# Les structures informelles
+
+Il s’agit des “discussions autour de la machine à café” (around the water cooler) qui sont souvent de nature sociale mais qui donne aussi lieu de discuté de sujets qui se rapport à l’entreprise, parfois, à l’extérieur de la structure formelle. (Ex: Un employé qui a le même passe-temps qu’un vice-directeur et ont la chance de faire un échange d’idée qui ne serait pas possible dans la structure formelle.)
+
+> Aprés une partie de squash, un représentant commercial confie à la vice-présidente du marketing que des clientes et clients ont éprouvé un problème avec un produit. La vice-présidente du marketing discute avec le chef des achats lors d'une pause et ce dernier appelle la superviseuse de l'usine pour discuter du probleme. La plupart de ces voies de communication sont informelles. La vice-présidente du marketing n'a pas de voie de communication formelle avec le personnel des ventes ni avec le chef des achats. Formellement, le représentant commercial aurait di signaler le probleme au vice-président des ventes, qui aurait ensuite informé la vice-présidente de la production, qui aurait ensuite communiqué avec le chef des achats et la superviseuse de l'usine.
+
+Ces structures informelles présentent plusieurs opportunités tel que l’accélération de certains projets (car l’information peut sauter certains niveaux de la structure formelle, et donc s’y rendre plus rapidement) et permettent la formation de groupes de soutient au sein de l’organisation. Cependant, elle peut aussi créer des problèmes tel que des sous-groupes qui excluent certaines personnes moins aimées ou en créent une deuxième hiérarchie que celui voulue par la haute direction de l’entreprise.
 # Travail
 
 Complètez le Google Slides dans Classroom.
