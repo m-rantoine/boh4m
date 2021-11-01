@@ -79,7 +79,7 @@ Tu as sans doute déjà entendu l’expression « emploi sans issue ». Si un em
 
 Les entreprises peuvent améliorer la satisfaction au travail en choisissant la conception du travail qui convient a chaque membre du personnel. Chaque conception du travail appelle ces trois principes :
 
-1. La portée du travail est le nombre de taches précises attribuées à une personne.
+1. La portée du travail et le nombre de taches précises attribuées à une personne.
 
    L’employé A, qui travaille dans un entrepôt, remplit des commandes en prenant une carte de commande, en conduisant un chariot jusqu’au bon casier de l’entrepôt, en y mettant les articles de la commande et en ramenant le chariot à l’endroit prévu. Cet employé a une seule tâche à accomplir chaque jour ; son travail a donc une portée très étroite. L’employée B, qui travaille dans une animalerie, remplit les tablettes, fait le nettoyage, prend les rendez-vous de toilettage et répond aux demandes de la clientèle. Cette employée a plusieurs tâches à accomplir chaque jour ; son travail a donc une portée beaucoup plus large.
 
@@ -122,8 +122,6 @@ Les conversations le long de la chaîne étaient peu fréquentes, étant donné 
 C’était la première journée de travail d’Emily à la boulangerie Bread and Butter. Elle a mis un uniforme propre, a passé un filet sur ses cheveux et a commencé son travail à la chaîne d’assemblage des brioches. Après une heure, Emily est passée à la machine d’emballage des pains à hamburger. L’utilisation de cette machine comportait plusieurs étapes et Emily a trouvé difficile de mettre huit pains dans une pile bien formée. La machine déplaçait chaque pile dans un emballage en plastique et le tournait. Emily prenait le sac de la machine, enroulait une attache sur le dessus et plaçait le sac fini dans une grande boîte qui contenait 24 sacs. Une fois la boîte pleine, elle la déposait sur un chariot et, lorsque le chariot était plein, elle en commençait un autre.
 
 Après quelques heures à la machine d’emballage, Emily s’est rendue dans la salle des fours, où elle a placé les plaques de brioches non cuites (dont certaines contenaient les brioches qu’elle avait mises elle-même sur des plateaux) sur une étagère qui se déplaçait lentement vers un énorme four.
-
-### La rotation
 
 À l’aide d’une longue cuillère en bois, Emily retirait toutes les brioches cuites de leur plaque de cuisson, pour les déposer sur un transporteur à courroie qui se rendait vers la salle d’emballage. Emily a aimé ce travail, surtout l’odeur du pain fraîchement sorti du four. Une fois le travail au four terminé, Emily a pu prendre un sac de brioches fraîchement cuites et rentrer à la maison.
 
