@@ -5,7 +5,7 @@ order: 3
 
 # La raison du travail
 
-![Image.png](Image.jpeg)
+![](Image.jpeg)
 
 Le travail, c’est plus que ce que nous faisons pour l’argent. Le travail définit une portion importante de notre vie de tous les jours ; c’est là où on trouve nos amies et nos collègues ; c’est l’endroit où : nous mettons en pratique les compétences que nous avons développées, nos talents et les choses que nous avons apprises. Demande à des gens de te parler d’eux et, souvent, ils répondront par leur titre professionnel (« Je suis comptable » ou « Je suis conceptrice », par exemple). Le travail a généralement une grande signification pour la plupart des gens.
 
@@ -19,13 +19,13 @@ Nous avons tendance à utiliser les mots plaisir ou amusement en opposition au m
 
 # La raison du travail
 
-![Image.png](Image-2.jpeg)
+![](Image-2.jpeg)
 
 De nombreuses entreprises ont appris qu’il est beaucoup plus facile de conserver des personnes qui aiment ce qu’elles font et qui ont du plaisir au travail. Prends un instant pour lire l’article « [40 experts partagent leurs recettes pour rendre les milléniaux heureux au travail](https://academos.qc.ca/blogue-corporatif/40-experts-partagent-leurs-recettes-pour-rendre-les-milleniaux-heureux-au-travail/) », qui traite de ce que cherchent les membres de la génération du millénaire au travail.
 
 # Le contrat psychologique
 
-![Image](Image-3.jpeg)
+![](Image-3.jpeg)
 
 > Un **contrat psychologique** est la croyance (les attentes non écrites) des deux parties selon laquelle elles donnent (par des obligations) et reçoivent (par des droits et des avantages) une valeur égale à l’autre.
 
@@ -35,7 +35,7 @@ Le principe majeur d’un contrat psychologique est l’équité. Des problèmes
 
 ## La qualité de la vie professionnelle
 
-![Image.png](Image-4.jpeg)
+![](Image-4.jpeg)
 
 La manière dont les gens se sentent au travail a une incidence sur la manière dont ils traitent la clientèle, sur leur relation avec leurs collègues et sur leur manière de travailler (leur productivité). Des personnes malheureuses au travail ne sont pas aussi productives ou efficientes que des personnes heureuses. Elles prennent davantage de congés de maladie et leur attitude peut nuire aux ventes. En grande partie, il incombe aux gestionnaires de veiller a ce que le personnel vive une expérience positive au travail. Les gestionnaires peuvent utiliser plusieurs moyens pour créer une expérience positive : des couleurs et une décoration réfléchie dans la conception générale du lieu de travail ; des pièces comme une salle de repas, un salon ou des installations sportives ; des programmes sociaux comme des barbecues ou des repas-partage ; des programmes d’aide aux employées et aux employés pour aider le personnel à gérer des problèmes financiers, émotionnels ou de santé.
 
@@ -107,7 +107,7 @@ L’enrichissement du travail offre des occasions de défi et mobilise le travai
 
 Voici un résumé des différentes conceptions du travail.
 
-![Image.png](Image-5.jpeg)
+![](Image-5.jpeg)
 
 L’étude de cas suivante illustre les trois principes généraux : la simplification, la rotation et l’enrichissement du travail.
 
@@ -141,11 +141,11 @@ Pour s’assurer que tu as bien compris quand utiliser ces approches de la conce
 
 Comme le travail et la technologie évoluent et que les attitudes par rapport au travail changent, il est souvent nécessaire de modifier le milieu ou les horaires de travail. Si une entreprise a besoin de l’information d’équipes créatrices et de réseaux interconnectés 24 heures sur 24, 7 jours sur 7, on peut se demander pourquoi conserver des cubicules de bureau et un horaire de travail de 9 à 5. Des espaces de travail créatifs et des horaires flexibles et habilitants seraient beaucoup plus sensés. Les gestionnaires d’aujourd’hui ont plusieurs milieux et aménagements du travail différents à considérer.
 
-![Image.png](Image-6.jpeg)
+![](Image-6.jpeg)
 
 ## Le partage du travail
 
-![Image.png](Image-7.jpeg)
+![](Image-7.jpeg)
 
 Dans le partage du travail, une entreprise divise un travail entre deux personnes - l’une peut venir travailler le matin, tandis que l’autre travaille l’après-midi. Un autre aménagement consiste à donner une journée de congé suivie d’une journée de travail. La force de ce type d’horaire est qu’il permet de conserver des membres du personnel qui autrement seraient mis a pied, alors que deux personnes se Partagent ce qui était autrefois un emploi à temps plein. Il permet aussi aux membres du personnel qui ont une famille de s’associer avec d’autres (qui l’ont ou ne l’ont pas) pour réduire les coûts de la garde des enfants et en faciliter l’organisation. Plusieurs travailleurs et travailleuses ne veulent travailler qu’à temps partiel. Le partage du travail offre des heures de travail à temps partiel avec les avantages sociaux et le statut du travail à temps plein. La principale faiblesse de cet aménagement réside dans les problèmes d’ajustement potentiels entre collègues. Les deux membres du personnel qui Partagent le travail ont besoin de coordonner leurs activités et de veiller à ce que la transition chaque jour (ou chaque deux jours) se fasse le plus en douceur possible.
 
