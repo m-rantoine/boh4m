@@ -139,7 +139,7 @@ Pour s’assurer que tu as bien compris quand utiliser ces approches de la conce
 
 # Les différents milieux et aménagements du travail
 
-Comme le travail et la technologie évoluent et que les attitudes par rapport au travail changent, il est souvent nécessaire de modifier le milieu ou les horaires de travail. Si une entreprise a besoin de l’information d’équipes créatrices et de réseaux interconnectés 24 heures sur 24, 7 jours sur 7, on peut se demander pourquoi conserver des cubicules de bureau et un horaire de travail de 9 a 5. Des espaces de travail créatifs et des horaires flexibles et habilitants seraient beaucoup plus sensés. Les gestionnaires d’aujourd’hui ont plusieurs milieux et aménagements du travail différents à considérer.
+Comme le travail et la technologie évoluent et que les attitudes par rapport au travail changent, il est souvent nécessaire de modifier le milieu ou les horaires de travail. Si une entreprise a besoin de l’information d’équipes créatrices et de réseaux interconnectés 24 heures sur 24, 7 jours sur 7, on peut se demander pourquoi conserver des cubicules de bureau et un horaire de travail de 9 à 5. Des espaces de travail créatifs et des horaires flexibles et habilitants seraient beaucoup plus sensés. Les gestionnaires d’aujourd’hui ont plusieurs milieux et aménagements du travail différents à considérer.
 
 ![Image.png](Image-6.jpeg)
 
