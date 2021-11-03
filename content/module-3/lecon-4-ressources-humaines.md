@@ -31,7 +31,7 @@ Le recrutement peut se faire de plusieurs façons, dont :
 
 Le candidat pose sa candidature, souvent à l’aide d’une lettre de présentation et un curriculum vitae (CV).
 
-L’entreprise qui prend une décision d’embauche le fait à la suite d’au moins une entrevue, effectuée par un ou une gestionnaire des RH. L’équipe d’entrevue pose des questions à chaque candidat ou candidate our déterminer sa personnalité, ses habitudes de travail, ses valeurs, ses champs d’intérêt et d’autres qualités.
+L’entreprise qui prend une décision d’embauche le fait à la suite d’au moins une entrevue, effectuée par un ou une gestionnaire des RH. L’équipe d’entrevue pose des questions à chaque candidat ou candidate pour déterminer sa personnalité, ses habitudes de travail, ses valeurs, ses champs d’intérêt et d’autres qualités.
 
 Par la suite, ils choisissent un candidat et vérifie ses références, communiquent avec les anciens employés, etc afin de vérifier la validité de l’information fournie sur le CV.
 
@@ -63,7 +63,7 @@ Les travailleurs et les travailleuses qui ont de l’ambition souhaitent avancer
 
 ### Évaluer le personnel
 
-Est-ce que le jeune homme qui semblait extrêmement talentueux en comptabilité pendant l’entrevue apporte réellement les contributions u’on attendait de lui ? Est-ce que des employées et des employés qui sont au service de l’entreprise depuis environ dix ans s’ennuient et sont insatisfaits de leur travail Qui est prêt pour la retraite ? Qui est prêt pour une promotion ?
+Est-ce que le jeune homme qui semblait extrêmement talentueux en comptabilité pendant l’entrevue apporte réellement les contributions u’on attendait de lui ? Est-ce que des employées et des employés qui sont au service de l’entreprise depuis environ dix ans s’ennuient et sont insatisfaits de leur travail ? Qui est prêt pour la retraite ? Qui est prêt pour une promotion ?
 
 Les évaluations du rendement sont importantes pour une organisation pour les raisons qui suivent :
 
