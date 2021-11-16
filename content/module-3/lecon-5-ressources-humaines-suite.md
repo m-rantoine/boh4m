@@ -1,5 +1,5 @@
 ---
-title: Le rôle dees ressources humaines (suite)
+title: Le rôle des ressources humaines (suite)
 order: 5
 ---
 ## 7. Gérer les démissions, les renvois et les départs à la retraite
