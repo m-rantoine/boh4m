@@ -29,6 +29,9 @@ sidebar:
     - order: 4
       path: '/module-4'
       title: 'Module 4'
+    - order: 5
+      path: '/module-5'
+      title: 'Module 5'
   links: []
   poweredBy: {}
   enabled: true
